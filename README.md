@@ -9,3 +9,4 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 
 열심히 하겠습니다!
 
+[기록용 티스토리 바로가기!](https://birdlyn.tistory.com)
